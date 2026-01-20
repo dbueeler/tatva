@@ -34,15 +34,8 @@ dev = [
     "pytest>=8.4.2",
 ]
 docs = [
-    "mkdocs>=1.6.1",
-    "mkdocs-material>=9.7.0",
-    "mkdocs-jupyter>=0.25.1",
-    "gmsh>=4.15.0",
-    "meshio>=5.3.5",
-    "mkdocstrings-python>=2.0.1",
-]
-docs-sphinx = [
     "sphinx>=9.0.4",
+    "sphinx-book-theme>=1.1.4",
 ]
 
 [build-system]
