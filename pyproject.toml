@@ -41,6 +41,9 @@ docs = [
     "meshio>=5.3.5",
     "mkdocstrings-python>=2.0.1",
 ]
+docs-sphinx = [
+    "sphinx>=9.0.4",
+]
 
 [build-system]
 requires = [ "hatchling", ]
