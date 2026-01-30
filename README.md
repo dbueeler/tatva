@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-small.png" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/dab/tatva-docs/main/assets/logo-small.png" alt="drawing" width="400"/>
 
 <h3 align="center">Tatva (टत्तव) : Lego-like building blocks for FEM</h3>
 
